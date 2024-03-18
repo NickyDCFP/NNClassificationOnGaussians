@@ -1,2 +1,2 @@
 # NNClassificationOnGaussians
-Neural Network Classifications on Random 2D Gaussian Data
+Neural Network Classification on Random 2D Gaussian Data
